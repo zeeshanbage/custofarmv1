@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/zeeshanbage/Learning/CustoFarm/CustoFarmTest/CustoFarmTest.csproj": {}
+  },
+  "projects": {
+    "/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDalc/CustoFarm_Dalc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDalc/CustoFarm_Dalc.csproj",
+        "projectName": "CustoFarm_Dalc",
+        "projectPath": "/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDalc/CustoFarm_Dalc.csproj",
+        "packagesPath": "/Users/zeeshanbage/.nuget/packages/",
+        "outputPath": "/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDalc/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zeeshanbage/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDomain/CustoFarmDomain.csproj": {
+                "projectPath": "/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDomain/CustoFarmDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/zeeshanbage/.dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDomain/CustoFarmDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDomain/CustoFarmDomain.csproj",
+        "projectName": "CustoFarmDomain",
+        "projectPath": "/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDomain/CustoFarmDomain.csproj",
+        "packagesPath": "/Users/zeeshanbage/.nuget/packages/",
+        "outputPath": "/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDomain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zeeshanbage/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/zeeshanbage/.dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/zeeshanbage/Learning/CustoFarm/CustoFarmTest/CustoFarmTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zeeshanbage/Learning/CustoFarm/CustoFarmTest/CustoFarmTest.csproj",
+        "projectName": "CustoFarmTest",
+        "projectPath": "/Users/zeeshanbage/Learning/CustoFarm/CustoFarmTest/CustoFarmTest.csproj",
+        "packagesPath": "/Users/zeeshanbage/.nuget/packages/",
+        "outputPath": "/Users/zeeshanbage/Learning/CustoFarm/CustoFarmTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zeeshanbage/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDalc/CustoFarm_Dalc.csproj": {
+                "projectPath": "/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDalc/CustoFarm_Dalc.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/zeeshanbage/.dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

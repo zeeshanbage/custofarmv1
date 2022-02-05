@@ -1,0 +1,12 @@
+/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDomain/bin/Debug/net5.0/CustoFarmDomain.deps.json
+/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDomain/bin/Debug/net5.0/CustoFarmDomain.dll
+/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDomain/bin/Debug/net5.0/ref/CustoFarmDomain.dll
+/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDomain/bin/Debug/net5.0/CustoFarmDomain.pdb
+/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDomain/obj/Debug/net5.0/CustoFarmDomain.csproj.AssemblyReference.cache
+/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDomain/obj/Debug/net5.0/CustoFarmDomain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDomain/obj/Debug/net5.0/CustoFarmDomain.AssemblyInfoInputs.cache
+/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDomain/obj/Debug/net5.0/CustoFarmDomain.AssemblyInfo.cs
+/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDomain/obj/Debug/net5.0/CustoFarmDomain.csproj.CoreCompileInputs.cache
+/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDomain/obj/Debug/net5.0/CustoFarmDomain.dll
+/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDomain/obj/Debug/net5.0/ref/CustoFarmDomain.dll
+/Users/zeeshanbage/Learning/CustoFarm/CustoFarmDomain/obj/Debug/net5.0/CustoFarmDomain.pdb
